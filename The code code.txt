@@ -1,0 +1,29 @@
+<html>
+<head>
+<title>Занятия по плаванию от 6-7</title>
+<link rel = "stylesheett"href = "style.css"/>
+</head>
+<body>
+<header>
+<h1>Занятия по плаванию от 6-7</h1>
+</header>
+<main>
+<img src="https://img.freepik.com/free-vector/kids-swimming-pool-class-composition-female-swim-coach-whistles-at-children-in-the-pool-vector-illustration_1284-76207.jpg?w=740&t=st=1708861225~exp=1708861825~hmac=90e3d309835df5f65e6ac344553ebcb332a80cd055b926ae1ac6002fde60290c"/>
+<p>Уже всё обдумали?</p>
+<p>Тогда мы уже ждём вас и вашего
+ребёнка в нашем бассейне.</p>
+<p>Адрес:</p>
+<p>Ул. Пионерская, название бассейна:
+Звёздный.</p>
+<p>Номер телефона: +7 *** *** ****</p>
+<p>Первый звонок бесплатный, время и
+сумма оплаты будут оглашены после
+первого занятия, первое занятие ---
+бесплатное.</p>
+</main>
+<footer>
+ <a href="...">Главная</a>
+ <a href="...">Я обдумал!</a>
+</footer>
+</body>
+</html>
